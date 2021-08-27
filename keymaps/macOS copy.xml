@@ -1,0 +1,37 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="down" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="shift plus" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="0" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="a" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="minus" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="slash" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="j" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="v" />
+  </action>
+</keymap>

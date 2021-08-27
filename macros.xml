@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="increaseTreeHeight">
+      <action id="SearchEverywhere" />
+      <typing text-keycode="76:1;65:0;70:0">Laf</typing>
+      <shortuct text="ENTER" />
+      <action id="UIDefaults" />
+      <typing text-keycode="82:0;79:0;87:0;72:0;69:0">rowhe</typing>
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="DOWN" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="57:0">9</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="51:0;51:0">33</typing>
+    </macro>
+  </component>
+</application>

@@ -1,0 +1,45 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="down" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="a" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="minus" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="slash" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="j" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="v" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="back_quote" second-keystroke="u" />
+  </action>
+</keymap>
